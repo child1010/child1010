@@ -1,5 +1,4 @@
-Run the code below, after replacing the token. 
-
+Run the code below, after replacing the token. 👀
 ```py
 import discord
 import random
