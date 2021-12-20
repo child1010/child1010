@@ -11,7 +11,7 @@
 
 - Fact about me : **I am the most annoying person in the world**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://discord.gg/dsadasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/child1010/child1010/main/discord.svg" alt="dsadasd" height="30" width="40" /></a>
 </p>
