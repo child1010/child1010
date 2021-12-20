@@ -1,4 +1,4 @@
-Run the code below. 👀
+Run the code below.
 Set the token by replacing Token here with your bot token.
 Change the prefix by change vt! to any prefix you want.
 ```py
