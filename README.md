@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://discord.gg/dsadasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/child1010/child1010/main/discord.svg" alt="dsadasd" height="30" width="40" /></a>
+- Discord : **vt#4339**
 </p>
 
 <h3 align="left">Language : </h3>
