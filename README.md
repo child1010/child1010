@@ -17,5 +17,4 @@
 </p>
 
 <h3 align="left">Languages and Tools I use :</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/child1010/child1010/main/py.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/neovim/neovim" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" alt="neovim" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/child1010/child1010/main/py.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://github.com/neovim/neovim" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" alt="neovim" width="40" height="40"/> </a> </p>
