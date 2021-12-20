@@ -1,6 +1,6 @@
-Run the code below 👀\n
-Set the token by replacing Token here with your bot token.\n
-Change the prefix by change vt! to any prefix you want.\n
+                                                                                                                          Run the code below 👀
+                                                                                                                             Set the token by replacing Token here with your bot token.
+                                                                                                                          Change the prefix by change vt! to any prefix you want.
 ```py
 import discord
 import random
