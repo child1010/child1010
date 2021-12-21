@@ -35,7 +35,7 @@ async def fact(ctx):
   
 @client.command()
 async def tools(ctx):
-  tools = ["Python3", "IDLE", "Discord.py"]
+  tools = ["Python3", "VS CODE", "Discord.py"]
   await ctx.send(tools)
   
 client.run(TOKEN)
