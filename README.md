@@ -17,7 +17,7 @@ async def discord(ctx):
   
 @client.command()
 async def learning(ctx):
-  ctx.send("JavaScript")
+  ctx.send("Jnothing lol")
   
 @client.command()
 async def WIP(ctx):
