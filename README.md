@@ -17,25 +17,20 @@ async def discord(ctx):
   
 @client.command()
 async def learning(ctx):
-  ctx.send("Jnothing lol")
+  ctx.send("nothing lol")
   
 @client.command()
 async def WIP(ctx):
-  ctx.send("MemeAPI")
+  ctx.send("RAI")
   
 @client.command()
 async def projects(ctx):
   ctx.send("https://github.com/child1010")
   
 @client.command()
-async def fact(ctx):
-  facts = ["Most annoying person on this earth", "Idiot", "cool"]
-  randfact = random.choice(facts)
-  await ctx.send(randfact)
-  
-@client.command()
 async def tools(ctx):
-  tools = ["Python3", "VS CODE", "Discord.py"]
+  toolslist = ["Python3", "VS CODE", "nextcord"]
+  tools = random.choice(toolslist)
   await ctx.send(tools)
   
 client.run(TOKEN)
