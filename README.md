@@ -17,15 +17,15 @@ async def discord(ctx):
   
 @client.command()
 async def learning(ctx):
-  ctx.send("nothing lol")
+  await ctx.send("nothing lol")
   
 @client.command()
 async def WIP(ctx):
-  ctx.send("RAI")
+  await ctx.send("RAI")
   
 @client.command()
 async def projects(ctx):
-  ctx.send("https://github.com/child1010")
+  await ctx.send("https://github.com/child1010")
   
 @client.command()
 async def tools(ctx):
