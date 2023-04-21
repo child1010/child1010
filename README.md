@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm **vt**.
-💻 About Me
+## 💻 About Me
 I am a hobbyist programmer who enjoys tinkering with code and building interesting projects. I have experience working with Rust, C/C++, Python, and Lua. Currently, my main project is a Discord bot called Hydrogen, which I'm building to help server owners manage their communities.
 
 ## 🤖 My Current Project
